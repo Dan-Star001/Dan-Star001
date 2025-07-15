@@ -7,7 +7,7 @@
 
 ## 🌈 Featured Projects
 
-<div align="center">
+<div>
 
 <!-- Bookit-store-Project Button -->
 <a href="https://github.com/AnjyBoy/Bookit-store-Project" target="_blank">
