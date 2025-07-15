@@ -24,9 +24,29 @@ I love learning new things related to my field and building web projects!
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DannyYoung1710)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-adedayo)
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-![AnjyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjyBoy&show_icons=true&theme=tokyonight)
+<!-- Simple stats card -->
+![AnjyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjyBoy&show_icons=true&theme=gruvbox&hide_title=true&count_private=true)
+
+<!-- Top languages card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjyBoy&layout=compact&hide_title=true&theme=gruvbox)
+
+<!-- Streak stats card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnjyBoy&theme=gruvbox&hide_border=true)
+
+<!-- Trophy card -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=AnjyBoy&theme=gruvbox&no-frame=true&row=1&column=7)
+
+<!-- Custom badges -->
+![Commits this year](https://img.shields.io/github/commit-activity/y/AnjyBoy/Bookit-store-Project?label=Bookit%20Store%20Commits)
+![Stars](https://img.shields.io/github/stars/AnjyBoy/Bookit-store-Project?style=social)
+
+<!-- Custom summary (dynamic via action or manual update) -->
+**Total Public Repositories:** 6  
+**Total Stars (across all repos):** <!-- You can update this count manually or automate it -->  
+**Followers:** ![GitHub followers](https://img.shields.io/github/followers/AnjyBoy?style=social)
+
 
 ## 🔥 Latest Activity
 
