@@ -15,8 +15,8 @@ jobs:
       - name: Update README with latest GitHub activity
         uses: JamesIves/github-activity-readme@v1.3.0
         with:
-          USERNAME: AnjyBoy
-          REPOSITORY: AnjyBoy/AnjyBoy
+          USERNAME: Dan-Star001
+          REPOSITORY: Dan-Star001/Dan-Star001
           MAX_LINES: 5
 
       - name: Commit changes
