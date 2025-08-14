@@ -126,19 +126,19 @@
 ## 📊 My GitHub Stats
 
 <!-- Simple stats card -->
-![AnjyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjyBoy&show_icons=true&theme=gruvbox&hide_title=true&count_private=true)
+![Dan-Star's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Star001&show_icons=true&theme=gruvbox&hide_title=true&count_private=true)
 
 <!-- Top languages card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjyBoy&layout=compact&hide_title=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Star001&layout=compact&hide_title=true&theme=gruvbox)
 
 <!-- Streak stats card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnjyBoy&theme=gruvbox&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dan-Star001&theme=gruvbox&hide_border=true)
 
 
 <!-- Custom summary (dynamic via action or manual update) -->
 **Total Public Repositories:** 6  
 **Total Stars (across all repos):** <!-- You can update this count manually or automate it -->  
-**Followers:** ![GitHub followers](https://img.shields.io/github/followers/AnjyBoy?style=social)
+**Followers:** ![GitHub followers](https://img.shields.io/github/followers/Dan-Star001?style=social)
 
  <br>
 
